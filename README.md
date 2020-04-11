@@ -1,2 +1,2 @@
 # Algorithm-and-Data-Structure
-を学ぶためのコード
+を学ぶために書いたコード群
